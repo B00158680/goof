@@ -1,0 +1,13 @@
+version = 1
+
+[[analyzers]]
+name = "ansible"
+
+[[analyzers]]
+name = "docker"
+
+[[analyzers]]
+name = "shell"
+
+[[analyzers]]
+name = "javascript"
